@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterlewandowski&" alt="peterlewandowski" /></p>
 
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterlewandowski&show_icons=true&locale=en&theme=&theme=transparent" /> </p>
+<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=peterlewandowski&show_icons=true&locale=en&theme=&theme=radicalt" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterlewandowski&show_icons=true&locale=en" alt="peterlewandowski" /></p>
 
