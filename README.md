@@ -3,8 +3,8 @@
 - 🌱 I’m currently building with **NextJS, TypeScript, Ionic/CapacitorJS**
 
 ### Recent posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
