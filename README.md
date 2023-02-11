@@ -14,6 +14,7 @@
 <!-- blog-post-list:start -->
 [![Hitchhikers Guide to the MacBook](https://raw.githubusercontent.com/peterlewandowski/peterlewandowski/main/blog-post-list-output/Stories_by_Peter_Lewandowski_on_Medium/Hitchhikers_Guide_to_the_MacBook.svg)](https://medium.com/@peter-lewandowski/hitchhikers-guide-to-the-macbook-4964dff372dd)
 
+
 <!-- blog-post-list:end -->
 
 
