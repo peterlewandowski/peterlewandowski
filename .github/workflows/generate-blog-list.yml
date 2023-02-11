@@ -3,7 +3,7 @@ name: Generate Blog List
 on:
   push:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "*/5 * * * *"
 jobs:
   blog:
     runs-on: ubuntu-latest
