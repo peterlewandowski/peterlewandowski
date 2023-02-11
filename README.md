@@ -4,6 +4,18 @@
 
 ### Recent posts
 <!-- blog-post-list:start -->
+## Stories by Peter Lewandowski on Medium
+
+Stories by Peter Lewandowski on Medium
+
+[Read more](https://medium.com/@peter-lewandowski?source=rss-dcf21e2eaf7e------2)
+> Last updated: Saturday, February 11, 2023 at 9:04:03 PM
+
+> Showing 1 of 1 posts.
+
+[![Hitchhikers Guide to the MacBook](https://raw.githubusercontent.com/peterlewandowski/peterlewandowski/main/blog-post-list-output/Stories_by_Peter_Lewandowski_on_Medium/Hitchhikers_Guide_to_the_MacBook.svg)](https://medium.com/@peter-lewandowski/hitchhikers-guide-to-the-macbook-4964dff372dd)
+
+
 <!-- blog-post-list:end -->
 
 <h3 align="left">Connect with me:</h3>
