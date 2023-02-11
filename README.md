@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterlewandowski" alt="peterlewandowski" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, TypeScript, Ionic/CapacitorJS**
+- 🌱 I’m currently building with **NextJS, TypeScript, Ionic/CapacitorJS**
 
 - 💬 Ask me about **React Context API!**
 
