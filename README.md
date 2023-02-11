@@ -1,4 +1,4 @@
-<h3 align="center">Building and Learning. Interested in Fintech!</h3>
+<h3 align="left">Building and Learning. Interested in Fintech!</h3>
 
 - 🌱 I’m currently building with **NextJS, TypeScript, Ionic/CapacitorJS**
 
