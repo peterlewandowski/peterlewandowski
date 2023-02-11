@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently building with **NextJS, TypeScript, Ionic/CapacitorJS**
 
-- 💬 Ask me about **React Context API!**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
