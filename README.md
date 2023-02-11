@@ -8,6 +8,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+## Stories_by_Peter_Lewandowski_on_Medium
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
