@@ -31,12 +31,3 @@
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=peterlewandowski&theme=github_dark&layout=compact)
 
 ![Profile Visotors](https://komarev.com/ghpvc/?username=peterlewandowski&style=flat-square&color=blueviolet&label=Profile+Visitors)
-
-
-<h2 align="left">Top Repositories</h2>
-<a href="https://github.com/peterlewandowski/easyfi-project-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterlewandowski&repo=easyfi-project-web&theme=transparent" />
-</a>
-<a href="https://github.com/peterlewandowski/easyfi-project-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterlewandowski&repo=easyfi-project-api&theme=transparent" />
-</a>
