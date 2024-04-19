@@ -26,8 +26,6 @@
 
 <h2 align="left">My GitHub Stats<h2>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peterlewandowski&theme=navy-gear)](https://git.io/streak-stats) ![peterlewandowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterlewandowski&show_icons=true&theme=transparent)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=peterlewandowski&theme=github_dark&layout=compact)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peterlewandowski&theme=navy-gear)](https://git.io/streak-stats)
 
 ![Profile Visotors](https://komarev.com/ghpvc/?username=peterlewandowski&style=flat-square&color=blueviolet&label=Profile+Visitors)
